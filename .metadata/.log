@@ -183,3 +183,57 @@ java.net.UnknownHostException: www.genuitec.com
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-17 16:28:45.441
 !MESSAGE executing callback sts4.classpath.NnsUkyiq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-17 16:43:32.779
+!MESSAGE Preparing classpath changed notification wallet
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-17 16:43:32.788
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-17 16:43:32.796
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-17 16:43:32.804
+!MESSAGE buffering callback sts4.classpath.NnsUkyiq wallet false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-17 16:43:32.808
+!MESSAGE executing callback sts4.classpath.NnsUkyiq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-17 16:43:32.837
+!MESSAGE executing callback sts4.classpath.NnsUkyiq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-17 16:44:53.427
+!MESSAGE Preparing classpath changed notification wallet
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-17 16:44:53.431
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-17 16:44:53.441
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-17 16:44:53.447
+!MESSAGE buffering callback sts4.classpath.NnsUkyiq wallet false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-17 16:44:53.449
+!MESSAGE executing callback sts4.classpath.NnsUkyiq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-17 16:44:53.470
+!MESSAGE executing callback sts4.classpath.NnsUkyiq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-17 16:49:52.257
+!MESSAGE Preparing classpath changed notification wallet
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-17 16:49:52.259
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-17 16:49:52.266
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-17 16:49:52.276
+!MESSAGE buffering callback sts4.classpath.NnsUkyiq wallet false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-17 16:49:52.279
+!MESSAGE executing callback sts4.classpath.NnsUkyiq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-17 16:49:52.338
+!MESSAGE executing callback sts4.classpath.NnsUkyiq SUCCESS [done]

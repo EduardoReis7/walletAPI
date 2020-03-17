@@ -1,0 +1,10 @@
+package com.wallet.repository;
+
+import org.junit.runner.RunWith;
+import org.
+
+@RunWith(SpringRunner.class)
+@ActiveProfiles("test")
+public class UserRepositoryTest {
+
+}

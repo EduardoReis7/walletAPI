@@ -1,0 +1,18 @@
+package com.wallet.entity;
+
+import java.io.Serializable;
+
+import javax.annotation.Generated;
+
+import org.springframework.boot.autoconfigure.domain.EntityScan;
+import org.springframework.data.annotation.Id;
+
+@EntityScan
+public class User implements Serializable{
+	
+	@Id
+	@GeneratedteratedValue(strategy = GENERATEDVALUE.IDENTITY)
+	private Long id;
+	private String password;
+	private String name;
+}

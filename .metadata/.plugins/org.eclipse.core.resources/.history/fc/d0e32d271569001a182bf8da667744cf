@@ -1,0 +1,23 @@
+package com.wallet.service.impl;
+
+import java.util.Optional;
+
+import org.springframework.stereotype.Service;
+
+import com.wallet.entity.User;
+import com.wallet.service.UserService;
+
+@Service
+public class UserServiceImpl implements UserService{
+
+	@Override
+	public User save(User u) {
+		return null;
+	}
+
+	@Override
+	public Optional<User> findByEmail(String email) {
+		return null;
+	}
+	
+}

@@ -15,7 +15,7 @@ public class Response<T> {
 	private T data;
 	private List<String> errors;
 	
-	public List<String> getErrors() {
+	public List<String> getErros() {
 		if (this.errors == null) {
 			this.errors = new ArrayList<String>();
 		}

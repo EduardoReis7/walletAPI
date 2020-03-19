@@ -592,3 +592,137 @@
 2020-03-19 09:37:49,769 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-03-19 09:37:49,770 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-03-19 09:37:49,773 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 09:37:49,773 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:04:06,023 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:04:06,026 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:04:06,026 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:04:06,030 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:04:06,031 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:04:55,820 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:04:55,821 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:04:55,821 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:04:55,824 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:04:55,824 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:06:11,281 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:06:11,282 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:06:11,283 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:06:11,286 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:06:11,287 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:14:14,799 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:14:14,800 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:14:14,800 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:14:14,802 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:14:14,802 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:17:02,284 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:17:02,284 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:17:02,285 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:17:02,288 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:17:02,288 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:17:37,751 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:17:37,751 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:17:37,752 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:17:37,753 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:17:37,754 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:18:22,807 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:18:22,807 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:18:22,807 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:18:22,810 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:18:22,810 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:18:33,182 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:18:33,182 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:18:33,182 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:18:33,187 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:18:33,187 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:18:49,396 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:18:49,397 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:18:49,397 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:18:49,401 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:18:49,401 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:20:03,501 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:20:03,502 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:20:03,502 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:20:03,506 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:20:03,506 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:20:32,372 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:20:32,372 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:20:32,373 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:20:32,375 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:20:32,376 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:20:43,404 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:20:43,405 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:20:43,405 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:20:43,408 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:20:43,408 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:23:57,315 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:23:57,316 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-03-19 10:23:57,334 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:23:57,338 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:23:57,338 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:24:41,047 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:24:41,049 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-03-19 10:24:41,062 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:24:41,064 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:24:41,064 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:27:41,135 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:27:41,136 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-03-19 10:27:41,140 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:27:41,143 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:27:41,143 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:27:54,887 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:27:54,888 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-03-19 10:27:54,891 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:27:54,896 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:27:54,896 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:30:05,149 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:30:05,150 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-03-19 10:30:05,154 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:30:05,157 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:30:05,157 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:30:26,476 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:30:26,477 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-03-19 10:30:26,480 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:30:26,483 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:30:26,483 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:30:52,993 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:30:52,994 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-03-19 10:30:52,996 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:30:52,999 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:30:52,999 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:30:57,267 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:30:57,269 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-03-19 10:30:57,275 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:30:57,277 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:30:57,277 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:31:00,095 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:31:00,096 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-03-19 10:31:00,098 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:31:00,100 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:31:00,100 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:31:05,446 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:31:05,447 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-03-19 10:31:05,450 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:31:05,453 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:31:05,453 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:31:23,628 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:31:23,629 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-03-19 10:31:23,632 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:31:23,635 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:31:23,635 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:31:34,354 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:31:34,355 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-03-19 10:31:34,358 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:31:34,360 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:31:34,360 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:46:30,647 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:46:30,648 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-03-19 10:46:30,651 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:46:30,653 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:46:30,653 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:46:32,810 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:46:32,811 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-03-19 10:46:32,815 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:46:32,817 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:46:32,817 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\eduardo.reis\Documents\eclipse-spring-workspace\wallet\src\test\resources
+2020-03-19 10:46:41,067 [Worker-70: Launching UserControllerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-19 10:46:41,067 [Worker-70: Launching UserControllerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-19 10:46:41,068 [Worker-70: Launching UserControllerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

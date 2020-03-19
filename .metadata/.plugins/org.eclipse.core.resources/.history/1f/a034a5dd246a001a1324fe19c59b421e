@@ -1,0 +1,13 @@
+package com.wallet.service.impl;
+
+import com.wallet.entity.Wallet;
+import com.wallet.service.WalletService;
+
+public class WalletServiceImpl implements WalletService{
+
+	@Override
+	public Wallet save(Wallet w) {
+		return null;
+	}
+	
+}

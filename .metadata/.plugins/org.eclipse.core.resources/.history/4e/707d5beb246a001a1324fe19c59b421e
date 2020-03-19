@@ -1,0 +1,16 @@
+package com.wallet.service.impl;
+
+import org.springframework.stereotype.Service;
+
+import com.wallet.entity.Wallet;
+import com.wallet.service.WalletService;
+
+@Service
+public class WalletServiceImpl implements WalletService{
+
+	@Override
+	public Wallet save(Wallet w) {
+		return null;
+	}
+	
+}

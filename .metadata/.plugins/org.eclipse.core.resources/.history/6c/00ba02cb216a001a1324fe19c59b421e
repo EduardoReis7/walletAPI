@@ -1,0 +1,10 @@
+package com.wallet.dto;
+
+import java.math.BigDecimal;
+
+public class WalletDTO {
+	
+	private Long id;
+	private String name;
+	private BigDecimal value;
+}

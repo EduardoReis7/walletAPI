@@ -1,0 +1,5 @@
+package com.wallet.security.config;
+
+public class SecurityConfiguration {
+
+}

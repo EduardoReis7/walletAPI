@@ -46,12 +46,13 @@ public class UserControllerTest {
 
 		BDDMockito.given(service.save(Mockito.any(User.class))).willReturn(getMockUser());
 		
-		mvc.perform(MockMvcRequestBuilders.post(URL).content(getJsonPayLoad(ID, EMAIL, NAME, PASSWORD)).contentType(MediaType.APPLICATION_JSON)
+		mvc.perform(MockMvcRequestBuilders.post(URL).content(getJsonPayLoad(ID, EMAIL, NAME, PASSWORD))
+				.contentType(MediaType.APPLICATION_JSON)
 				.accept(MediaType.APPLICATION_JSON)).andExpect(status().isCreated())
 				.andExpect(jsonPath("$.data.id").value(ID))
 				.andExpect(jsonPath("$.data.email").value(EMAIL))
 				.andExpect(jsonPath("$.data.name").value(NAME))
-				.andExpect(jsonPath("$.data.password").value(PASSWORD));
+				.andExpect(jsonPath("$.data.password").doesNotExist());
 	}
 	
 	@Test

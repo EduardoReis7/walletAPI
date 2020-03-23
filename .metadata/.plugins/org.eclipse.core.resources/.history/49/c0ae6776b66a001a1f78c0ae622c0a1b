@@ -1,0 +1,23 @@
+package com.wallet.entity;
+
+import java.io.Serializable;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "wallet-items")
+public class WalletItem implements Serializable{
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	
+	private Long id;
+	private Wallet wallet;
+	private Date date;
+	private String type;
+	private String description;
+	
+}

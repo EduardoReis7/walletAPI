@@ -1,0 +1,5 @@
+package com.wallet.util.enums;
+
+public enum TypeEnum {
+
+}

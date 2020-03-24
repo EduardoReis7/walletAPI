@@ -12,7 +12,7 @@ org.springframework.dao.InvalidDataAccessResourceUsageException: could not prepa
 	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
 	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
 	at com.sun.proxy.$Proxy127.save(Unknown Source)
-	at com.wallet.repository.WalletItemsRepositoryTest.testSave(WalletItemsRepositoryTest.java:43)
+	at com.wallet.repository.WalletItemsRepositoryTest.testSave(WalletItemsRepositoryTest.java:44)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
